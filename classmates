@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<class>
+	<classmate>
+		<name>’‘</name>
+		<gender>female</gender>
+		<![CDATA[<age><20</age>]]>
+		<student stunum>01</student stunum>
+	</classmate>
+	<classmate>
+		<name>«Æ</name>
+		<gender>male</gender>
+		<age>19</age>
+			<student stunum>02</student stunum>
+	</classmate>
+	<classmate>
+		<name>ÀÔ</name>
+		<gender>male</gender>
+		<age>20</age>
+		<student stunum>03</student stunum>
+	</classmate>
+	<classmate>
+		<name>¿Ó</name>
+		<gender>female</gender>
+		<age>21</age>
+		<student stunum>05</student stunum>	
+	</classmate>
+	<classmate>
+		<name>÷‹</name>
+		<gender>male</gender>
+		<age>22</age>
+		<student stunum>06</student stunum>
+	</classmate>
+	<classmate>
+		<name>Œ‚</name>
+		<gender>male</gender>
+		<age>21</age>
+		<student stunum>07</student stunum>
+</class>
