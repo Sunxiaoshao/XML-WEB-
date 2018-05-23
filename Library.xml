@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Library SYSTEM "Library.dtd">
 
@@ -24,3 +25,31 @@
 	</Member>
 </Library>
 
+=======
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Library SYSTEM "Library.dtd">
+
+<Library>
+	<Book BookId = "01">
+		<Title>Classics</Title>
+		<Name>The Tragedy of Hamlet</Name>
+		<Author>George Raymond Richard Martin</Author>
+                <Price>$45</Price>
+		<Publisher>People's publishing house</Publisher>
+		<Cost>$38</Cost>	
+	</Book>
+	<Member>
+		<Name>
+			<FirstName>Black</FirstName>
+			<MiddleName>Sweeney</MiddleName>
+			<LastName>Sutton</LastName>
+		</Name>
+		<Address>
+			<HouseNumber>706</HouseNumber>
+			<Street>The Yangtze river street</Street>
+			<City>Jing Zhou</City>
+		</Address>
+	</Member>
+</Library>
+
+>>>>>>> 9ae124e732f83e07e53e031a1b9e8ec6526084b8
